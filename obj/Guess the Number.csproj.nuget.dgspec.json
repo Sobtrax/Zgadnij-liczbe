@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Repos\\Guess the Number\\Guess the Number.csproj": {}
+    "C:\\Users\\barto\\Desktop\\syf\\PROJEKTY\\Github\\Sobtrax\\Zgadnij-liczbe\\Guess the Number.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Repos\\Guess the Number\\Guess the Number.csproj": {
+    "C:\\Users\\barto\\Desktop\\syf\\PROJEKTY\\Github\\Sobtrax\\Zgadnij-liczbe\\Guess the Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Repos\\Guess the Number\\Guess the Number.csproj",
+        "projectUniqueName": "C:\\Users\\barto\\Desktop\\syf\\PROJEKTY\\Github\\Sobtrax\\Zgadnij-liczbe\\Guess the Number.csproj",
         "projectName": "Guess the Number",
-        "projectPath": "D:\\Visual Studio Repos\\Guess the Number\\Guess the Number.csproj",
+        "projectPath": "C:\\Users\\barto\\Desktop\\syf\\PROJEKTY\\Github\\Sobtrax\\Zgadnij-liczbe\\Guess the Number.csproj",
         "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Repos\\Guess the Number\\obj\\",
+        "outputPath": "C:\\Users\\barto\\Desktop\\syf\\PROJEKTY\\Github\\Sobtrax\\Zgadnij-liczbe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\barto\\AppData\\Roaming\\NuGet\\NuGet.Config",

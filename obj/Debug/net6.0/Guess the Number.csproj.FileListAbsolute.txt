@@ -13,3 +13,18 @@ D:\Visual Studio Repos\Guess the Number\obj\Debug\net6.0\refint\Guess the Number
 D:\Visual Studio Repos\Guess the Number\obj\Debug\net6.0\Guess the Number.pdb
 D:\Visual Studio Repos\Guess the Number\obj\Debug\net6.0\Guess the Number.genruntimeconfig.cache
 D:\Visual Studio Repos\Guess the Number\obj\Debug\net6.0\ref\Guess the Number.dll
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\bin\Debug\net6.0\Guess the Number.exe
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\bin\Debug\net6.0\Guess the Number.deps.json
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\bin\Debug\net6.0\Guess the Number.runtimeconfig.json
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\bin\Debug\net6.0\Guess the Number.dll
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\bin\Debug\net6.0\Guess the Number.pdb
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.csproj.AssemblyReference.cache
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.AssemblyInfo.cs
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.dll
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\refint\Guess the Number.dll
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.pdb
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\Guess the Number.genruntimeconfig.cache
+C:\Users\barto\Desktop\syf\PROJEKTY\Github\Sobtrax\Zgadnij-liczbe\obj\Debug\net6.0\ref\Guess the Number.dll
